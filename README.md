@@ -1,1 +1,1 @@
-# email-generator
+# Email Generator Using Gemini
